@@ -1,9 +1,57 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "homepage": {
+        "banner": {
+            "background_image": "/images/banner-01.jpg"
+        }
+    },
+    "products": [
+        {
+            "id": "1",
+            "image": "/images/product_01.jpg",
+            "title": "Rubber Bone Dog Toy",
+            "price": ""
+        },
+        {
+            "id": "2",
+            "image": "/images/product_02.jpg",
+            "title": "Rope Toys for Dog Cotton Rope 28 x 5.5 Cm",
+            "price": ""
+        },
+        {
+            "id": "3",
+            "image": "/images/product_03.jpg",
+            "title": "Kong Puppy Medium Dog Toy Pink Blue | Treat Your Dog",
+            "price": ""
+        },
+        {
+            "id": "4",
+            "image": "/images/product_04.jpg",
+            "title": "Dog Tug Toy",
+            "price": ""
+        },
+        {
+            "id": "5",
+            "image": "/images/product_05.jpg",
+            "title": "Squeaky Duck Dog Toy",
+            "price": ""
+        },
+        {
+            "id": "6",
+            "image": "/images/product_06.jpg",
+            "title": "item",
+            "price": ""
+        },
+        {
+            "id": "7",
+            "image": "/images/product_07.jpg",
+            "title": "Chew Toy for Dogs",
+            "price": ""
+        },
+        {
+            "id": "8",
+            "image": "/images/product_08.jpg",
+            "title": "Squeaky Ball Dog Toys",
+            "price": ""
+        }
+    ]
 }
