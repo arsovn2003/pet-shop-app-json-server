@@ -80,5 +80,38 @@
         "text22": "Shop in-store or online for a seamless shopping experience. We offer fast shipping and easy returns.",
         "text23": "Community Involvement",
         "text24": "Join us for events, workshops, and adoption days to connect with other pet lovers and support local animal welfare initiatives."
-    }
+    },
+    "contact": {
+        "title": "Contact Us"
+    },
+    "testimonials": {
+        "title": "Customer Testimonials"
+    },
+    "testimonialsArray": [
+        {
+            "id": "1",
+            "name": "Sophia Doe",
+            "comment": "Great products and services!"
+        },
+        {
+            "id": "2",
+            "name": "Jane Smith",
+            "comment": "My pets love everything I buy here."
+        },
+        {
+            "id": "3",
+            "name": "Alice Johnson",
+            "comment": "Excellent customer service and quality products."
+        },
+        {
+            "id": "4",
+            "name": "Robert Brown",
+            "comment": "Fast delivery and great prices!"
+        },
+        {
+            "id": "5",
+            "name": "Emily Davis",
+            "comment": "Highly recommend this shop for all pet needs."
+        }
+    ]
 }
