@@ -1,7 +1,7 @@
 {
     "homepage": {
         "banner": {
-            "background_image": "/images/banner-01.jpg"
+            "background_image": "/images/banner2.jpg"
         }
     },
     "products": [
@@ -9,7 +9,7 @@
             "id": "1",
             "image": "/images/product_01.jpg",
             "title": "Rubber Bone Dog Toy",
-            "price": ""
+            "price": "20"
         },
         {
             "id": "2",
@@ -53,5 +53,32 @@
             "title": "Squeaky Ball Dog Toys",
             "price": ""
         }
-    ]
+    ],
+    "aboutus": {
+        "title": "About Us",
+        "text1": "Welcome to Your Pet Shop!",
+        "text2": "At Your Pet Shop, we are passionate about pets and dedicated to providing the best products and services for your beloved furry, feathered, and scaly friends.",
+        "text3": "Our mission is to enhance the lives of pets and their owners by offering a wide range of high-quality pet supplies, exceptional customer service, and expert advice.",
+        "text4": "Our Story",
+        "text5": " Your Pet Shop was founded in 2024 by John Doe, a lifelong pet lover and advocate for animal welfare. Our journey began with a simple dream: to create a place where pet owners could find everything they need to keep their pets happy and healthy.",
+        "text6": "Over the years, we've grown from a small local store to a thriving business, thanks to our loyal customers and dedicated team.",
+        "text7": "Our Values",
+        "text8": "Passion for Pets",
+        "text9": "Our love for animals drives everything we do. We treat every pet as if they were our own, ensuring they receive the best care and products available.",
+        "text10": "Quality Products",
+        "text11": " We carefully select our products to ensure they meet the highest standards of quality and safety. From nutritious food and treats to durable toys and accessories, we offer only the best for your pets.",
+        "text12": "Customer Service",
+        "text13": " We believe in building strong relationships with our customers. Our knowledgeable staff is always here to help you find the right products and provide expert advice.",
+        "text14": "Community Engagement",
+        "text15": " We are committed to giving back to our community. We regularly host adoption events, pet care workshops, and support local animal shelters and rescue organizations.",
+        "text16": "Why Choose Us?",
+        "text17": "Wide Selection",
+        "text18": "We offer a comprehensive range of products for all types of pets, including dogs, cats, birds, fish, reptiles, and small animals.",
+        "text19": "Expert Advice",
+        "text20": "Our staff is trained to provide knowledgeable advice on pet care, nutrition, and product selection.",
+        "text21": "Convenience",
+        "text22": "Shop in-store or online for a seamless shopping experience. We offer fast shipping and easy returns.",
+        "text23": "Community Involvement",
+        "text24": "Join us for events, workshops, and adoption days to connect with other pet lovers and support local animal welfare initiatives."
+    }
 }
