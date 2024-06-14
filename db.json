@@ -4,6 +4,9 @@
             "background_image": "/images/banner2.jpg"
         }
     },
+    "featured-products": {
+        "title": "Featured Products"
+    },
     "products": [
         {
             "id": "1",
@@ -15,43 +18,43 @@
             "id": "2",
             "image": "/images/product_02.jpg",
             "title": "Rope Toys for Dog Cotton Rope 28 x 5.5 Cm",
-            "price": ""
+            "price": "25"
         },
         {
             "id": "3",
             "image": "/images/product_03.jpg",
             "title": "Kong Puppy Medium Dog Toy Pink Blue | Treat Your Dog",
-            "price": ""
+            "price": "18"
         },
         {
             "id": "4",
             "image": "/images/product_04.jpg",
             "title": "Dog Tug Toy",
-            "price": ""
+            "price": "22"
         },
         {
             "id": "5",
             "image": "/images/product_05.jpg",
             "title": "Squeaky Duck Dog Toy",
-            "price": ""
+            "price": "30"
         },
         {
             "id": "6",
             "image": "/images/product_06.jpg",
             "title": "item",
-            "price": ""
+            "price": "12"
         },
         {
             "id": "7",
             "image": "/images/product_07.jpg",
             "title": "Chew Toy for Dogs",
-            "price": ""
+            "price": "10"
         },
         {
             "id": "8",
             "image": "/images/product_08.jpg",
             "title": "Squeaky Ball Dog Toys",
-            "price": ""
+            "price": "10"
         }
     ],
     "aboutus": {
@@ -79,7 +82,8 @@
         "text21": "Convenience",
         "text22": "Shop in-store or online for a seamless shopping experience. We offer fast shipping and easy returns.",
         "text23": "Community Involvement",
-        "text24": "Join us for events, workshops, and adoption days to connect with other pet lovers and support local animal welfare initiatives."
+        "text24": "Join us for events, workshops, and adoption days to connect with other pet lovers and support local animal welfare initiatives.",
+        "title2": "Contact Us"
     },
     "contact": {
         "title": "Contact Us"
@@ -117,80 +121,298 @@
     "shopProducts": [
         {
             "id": "1",
-            "category": "toys",
-            "name": "Toy for Dogs",
-            "image": "/images/toys.jpg"
+            "image": "/images/product_01.jpg",
+            "title": "Rubber Bone Dog Toy",
+            "price": "20",
+            "category": "toys"
         },
         {
             "id": "2",
-            "category": "toys",
-            "name": "Toy for Dogs 2",
-            "image": "/images/toys.jpg"
+            "image": "/images/product_02.jpg",
+            "title": "Rope Toys for Dog Cotton Rope 28 x 5.5 Cm",
+            "price": "15",
+            "category": "toys"
         },
         {
             "id": "3",
-            "category": "toys",
-            "name": "Toy for Dogs 3",
-            "image": "/images/toys.jpg"
+            "image": "/images/product_03.jpg",
+            "title": "Kong Puppy Medium Dog Toy Pink Blue | Treat Your Dog",
+            "price": "25",
+            "category": "toys"
         },
         {
             "id": "4",
-            "category": "toys",
-            "name": "Toy for Dogs 4",
-            "image": "/images/toys.jpg"
+            "image": "/images/product_04.jpg",
+            "title": "Dog Tug Toy",
+            "price": "18",
+            "category": "toys"
         },
         {
             "id": "5",
-            "category": "toys",
-            "name": "Toy for Dogs 5",
-            "image": "/images/toys.jpg"
+            "image": "/images/product_05.jpg",
+            "title": "Squeaky Duck Dog Toy",
+            "price": "22",
+            "category": "toys"
         },
         {
             "id": "6",
-            "category": "toys",
-            "name": "Toy for Dogs 6",
-            "image": "/images/toys.jpg"
+            "image": "/images/product_06.jpg",
+            "title": "Interactive Treat Dispenser",
+            "price": "30",
+            "category": "toys"
         },
         {
             "id": "7",
-            "category": "food",
-            "name": "Food for Dogs",
-            "image": "/images/food.jpg"
+            "image": "/images/product_07.jpg",
+            "title": "Chew Toy for Dogs",
+            "price": "12",
+            "category": "toys"
         },
         {
             "id": "8",
-            "category": "food",
-            "name": "Food for Dogs 2",
-            "image": "/images/food.jpg"
+            "image": "/images/product_08.jpg",
+            "title": "Squeaky Ball Dog Toys",
+            "price": "10",
+            "category": "toys"
         },
         {
             "id": "9",
-            "category": "food",
-            "name": "Food for Dogs 3",
-            "image": "/images/food.jpg"
+            "image": "/images/product_09.jpg",
+            "title": "Plush Dog Bed",
+            "price": "45",
+            "category": "accessories"
         },
         {
             "id": "10",
-            "category": "food",
-            "name": "Food for Dogs 4",
-            "image": "/images/food.jpg"
-        },
-        {
-            "id": "5",
-            "category": "food",
-            "name": "Food for Dogs 5",
-            "image": "/images/food.jpg"
+            "image": "/images/product_10.jpg",
+            "title": "Pet Carrier Backpack",
+            "price": "60",
+            "category": "accessories"
         },
         {
             "id": "11",
-            "category": "food",
-            "name": "Food for Dogs 6",
-            "image": "/images/food.jpg"
+            "image": "/images/product_11.jpg",
+            "title": "Stainless Steel Dog Bowl",
+            "price": "15",
+            "category": "accessories"
+        },
+        {
+            "id": "12",
+            "image": "/images/product_12.jpg",
+            "title": "Cat Scratching Post",
+            "price": "35",
+            "category": "toys"
+        },
+        {
+            "id": "13",
+            "image": "/images/product_13.jpg",
+            "title": "Cat Tunnel Toy",
+            "price": "25",
+            "category": "toys"
+        },
+        {
+            "id": "14",
+            "image": "/images/product_14.jpg",
+            "title": "Cat Laser Toy",
+            "price": "15",
+            "category": "toys"
+        },
+        {
+            "id": "15",
+            "image": "/images/product_15.jpg",
+            "title": "Catnip Toy Mouse",
+            "price": "10",
+            "category": "toys"
+        },
+        {
+            "id": "16",
+            "image": "/images/product_16.jpg",
+            "title": "Self-Cleaning Cat Litter Box",
+            "price": "150",
+            "category": "accessories"
+        },
+        {
+            "id": "17",
+            "image": "/images/product_17.jpg",
+            "title": "Cat Hammock Bed",
+            "price": "30",
+            "category": "accessories"
+        },
+        {
+            "id": "18",
+            "image": "/images/product_18.jpg",
+            "title": "Cat Feather Wand",
+            "price": "8",
+            "category": "toys"
+        },
+        {
+            "id": "19",
+            "image": "/images/product_19.jpg",
+            "title": "Bird Cage",
+            "price": "100",
+            "category": "accessories"
+        },
+        {
+            "id": "20",
+            "image": "/images/product_20.jpg",
+            "title": "Bird Swing Toy",
+            "price": "15",
+            "category": "toys"
+        },
+        {
+            "id": "21",
+            "image": "/images/product_21.jpg",
+            "title": "Bird Feeder",
+            "price": "25",
+            "category": "accessories"
+        },
+        {
+            "id": "23",
+            "image": "/images/product_23.jpg",
+            "title": "Bird Perch",
+            "price": "12",
+            "category": "accessories"
+        },
+        {
+            "id": "24",
+            "image": "/images/product_24.jpg",
+            "title": "Bird Nesting Material",
+            "price": "10",
+            "category": "accessories"
+        },
+        {
+            "id": "25",
+            "image": "/images/product_25.jpg",
+            "title": "Bird Toy Set",
+            "price": "30",
+            "category": "toys"
+        },
+        {
+            "id": "26",
+            "image": "/images/product_26.jpg",
+            "title": "Reptile Terrarium",
+            "price": "200",
+            "category": "accessories"
+        },
+        {
+            "id": "27",
+            "image": "/images/product_27.jpg",
+            "title": "Reptile Heat Lamp",
+            "price": "40",
+            "category": "accessories"
+        },
+        {
+            "id": "28",
+            "image": "/images/product_28.jpg",
+            "title": "Reptile Hideout Cave",
+            "price": "20",
+            "category": "accessories"
+        },
+        {
+            "id": "29",
+            "image": "/images/product_29.jpg",
+            "title": "Reptile Water Dish",
+            "price": "12",
+            "category": "accessories"
+        },
+        {
+            "id": "30",
+            "image": "/images/product_30.jpg",
+            "title": "Reptile Climbing Branch",
+            "price": "15",
+            "category": "accessories"
+        },
+        {
+            "id": "31",
+            "image": "/images/product_31.jpg",
+            "title": "Reptile Habitat Thermometer",
+            "price": "10",
+            "category": "accessories"
+        },
+        {
+            "id": "32",
+            "image": "/images/product_32.jpg",
+            "title": "Reptile Food",
+            "price": "8",
+            "category": "food"
+        },
+        {
+            "id": "33",
+            "image": "/images/product_33.jpg",
+            "title": "Hamster Cage",
+            "price": "50",
+            "category": "accessories"
+        },
+        {
+            "id": "34",
+            "image": "/images/product_34.jpg",
+            "title": "Hamster Wheel",
+            "price": "15",
+            "category": "toys"
+        },
+        {
+            "id": "35",
+            "image": "/images/product_35.jpg",
+            "title": "Hamster Tunnel",
+            "price": "20",
+            "category": "toys"
+        },
+        {
+            "id": "36",
+            "image": "/images/product_36.jpg",
+            "title": "Hamster Chew Toys",
+            "price": "10",
+            "category": "toys"
+        },
+        {
+            "id": "37",
+            "image": "/images/product_37.jpg",
+            "title": "Hamster Bedding",
+            "price": "12",
+            "category": "accessories"
+        },
+        {
+            "id": "38",
+            "image": "/images/product_38.jpg",
+            "title": "Rabbit Hutch",
+            "price": "120",
+            "category": "accessories"
+        },
+        {
+            "id": "39",
+            "image": "/images/product_39.jpg",
+            "title": "Rabbit Chew Sticks",
+            "price": "10",
+            "category": "food"
+        },
+        {
+            "id": "40",
+            "image": "/images/product_40.jpg",
+            "title": "Rabbit Playpen",
+            "price": "60",
+            "category": "toys"
+        },
+        {
+            "id": "41",
+            "image": "/images/product_41.jpg",
+            "title": "Guinea Pig Hideout",
+            "price": "25",
+            "category": "accessories"
+        },
+        {
+            "id": "42",
+            "image": "/images/product_42.jpg",
+            "title": "Guinea Pig Food Bowl",
+            "price": "8",
+            "category": "accessories"
         }
     ],
     "shop": {
         "banner": {
             "background_image": "/images/banner2.jpg"
         }
+    },
+    "blog": {
+        "title": "Latest Articles"
     }
 }
