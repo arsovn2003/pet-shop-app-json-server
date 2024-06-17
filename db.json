@@ -414,5 +414,14 @@
     },
     "blog": {
         "title": "Latest Articles"
+    },
+    "services": {
+        "title": "Services",
+        "title1": "Grooming Services",
+        "content1": "Our grooming services will keep your pet looking and feeling their best. We offer baths, haircuts, nail trims, and more!",
+        "title2": "Boarding Services",
+        "content2": "Our boarding services provide a safe and comfortable environment for your pet while you are away. We ensure your pet is well taken care of and happy.",
+        "title3": "Veterinary Services",
+        "content3": "Our veterinary services offer comprehensive care for your pet's health. From regular check-ups to emergency care, we are here for your pet."
     }
 }
